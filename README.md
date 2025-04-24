@@ -21,4 +21,4 @@ To run this project locally, follow the steps below:
    git clone https://github.com/your-username/tech-quiz-app.git
 
 ## Video Walk Through
-Youtube link: https://www.youtube.com/watch?v=EQmFq0OmJZc
+https://www.loom.com/share/ceeb2f0b930044669ec26f342584c306
